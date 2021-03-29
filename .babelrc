@@ -1,0 +1,4 @@
+//transforms our es6 code into code node can understand
+{
+    "presets": ["@babel/preset-env"]
+}
